@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Calculadora de IMC',
+  title: 'Calculadora de Indice de massa corporal',
   description: 'Projeto B7WEB',
 }
 
